@@ -1,4 +1,4 @@
-name: Deploy WebGames in Git
+name: Deploy Web
 on: 
   push:
     branches:
